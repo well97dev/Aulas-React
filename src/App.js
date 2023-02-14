@@ -2,6 +2,7 @@ import './App.css'
 import OutraLista from './components/OutraLista'
 
 function App() {
+
   const meusItens = ['React', 'Vue', 'Angular', 'Laravel']
 
   return (
